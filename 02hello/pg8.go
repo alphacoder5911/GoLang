@@ -31,4 +31,15 @@ func main() {
 	//if statements run com, refer ifstatements.go
 	state()
 
+	//Switch case 
+
+	swit()
+
+	//Practice 
+	fmt.Println("Practice of Go")
+	pract()
+
+	//Pointers
+	point()
+
 }
